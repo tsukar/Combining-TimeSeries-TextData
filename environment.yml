@@ -1,0 +1,14 @@
+name: rodrigues-2018-combining
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=2.7
+  - pandas
+  - numpy
+  - keras=2.1.6
+  - tensorflow
+  - scikit-learn
+  - statsmodels
+  - jupyter
+  - matplotlib
